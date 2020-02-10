@@ -25,7 +25,7 @@ Let's try it out using your CERN Gitlab account! (FIXME: or you prefer to use Gi
 For this you have to follow these steps:
 
 
-![prueba]({{site.baseurl}}/fig/connected_repo.png)
+![prueba](https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/connected_repo.png?raw=true)
 
 
 
