@@ -5,9 +5,9 @@ exercises: 0
 questions:
 - "Key question (FIXME)"
 objectives:
-- "First learning objective. (FIXME)"
+- "Understand what is the CERN Analysis Preservation portal."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- ""
 ---
 FIXME
 
