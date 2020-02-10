@@ -19,7 +19,7 @@ keypoints:
 
 The CAP portal can be accessed [here](https://analysispreservation.cern.ch/) with your CERN account.
 
-#Overall overview
+# Overall view
 
 After the introduction showing the general aspects of the CAP portal, it's now time to create a new CAP entry so that we can really see how the whole workflow works.
 
@@ -27,7 +27,7 @@ After the introduction showing the general aspects of the CAP portal, it's now t
 
 You will also see a place holder to include your WORKFLOWS. Once you have your code preserved and some associated workflow, you will be able to launch it directly from CAP.
 
-#Start preserving
+# Start preserving
 
 When inside the CAP portal you can go directly to `CREATE`
 
