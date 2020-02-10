@@ -29,7 +29,7 @@ You will also see a place holder to include your `WORKFLOWS`. Once you have your
 
 ## Start preserving
 
-When inside the CAP portal you can go directly to `CREATE`. A prompt will appear asking you about the title for the analysis to be preserved and the type of content you want to preserve. On the latter you should select CMS Analysis. 
+When inside of the CAP portal you can go directly to `CREATE`. A prompt will appear asking you about the title for the analysis to be preserved and the type of content you want to preserve. On the latter you should select CMS Analysis. 
 
 For the General Title you should fill it with ``FIXME``
 
