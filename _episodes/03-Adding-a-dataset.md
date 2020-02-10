@@ -24,21 +24,24 @@ For this, we are going to learn how to append this information!
 So we will now need to perfom some actions:
 
 1. In the menu on your left, click on Input Data
-2. Click on Primary Datasets to include some real data dataset
+2. Click on Primary Datasets to include some real data dataset. Start typing the name of the dataset to see how it autocompletes to avoid typos.
 ~~~
 Add the following dataset: FIXME
 ~~~
 {: .language-yaml}
-3. Click on Monte Carlo Signal Datasets to include some dataset simulation on the signal model your are using
+
+3. Click on Monte Carlo Signal Datasets to include some dataset simulation on the signal model your are using in your analysis. Start typing the name of the dataset to see how it autocompletes to avoid typos.
 ~~~
 Add the following dataset: FIXME
 ~~~
 {: .language-yaml}
-4. Click on Monte Carlo Background Datasts to include some dataset simulation on the background you are using
+
+4. Click on Monte Carlo Background Datasts to include some dataset simulation on the background you are using in your analysis. Start typing the name of the dataset to see how it autocompletes to avoid typos.
 ~~~
 Add the following dataset: FIXME
 ~~~
 {: .language-yaml}
+
 
 
 
@@ -46,4 +49,8 @@ Add the following dataset: FIXME
 
 ## Exporting the datasets as a Latex file
 
+Now that you have your dataset paths stored, you may need to export them to include them in a paper or just to share it with some collaborators. For doing so, the CAP system has a Latex exporter that will generate an exportable LaTeX dataset table with headers, etc…
 
+Try it out yourself!
+
+FIXME: Instruction on how to export the dataset files as a latex table
