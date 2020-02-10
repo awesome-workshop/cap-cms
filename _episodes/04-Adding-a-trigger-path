@@ -15,6 +15,7 @@ keypoints:
 ---
 
 
+## Including a dataset to the CAP entry
 ## Including a trigger path to the CAP entry
 
 Now that we have created our first CAP entry and included some input datasets, let's also add some trigger paths. Let's see how to include this information!
