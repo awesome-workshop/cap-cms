@@ -25,7 +25,7 @@ Let's try it out using your CERN Gitlab account! (FIXME: or you prefer to use Gi
 For this you have to follow these steps:
 
 
-![prueba]({{site.baseurl}}/fig/repositories.png)
+![prueba]({{site.baseurl}}/fig/connected_repo.png)
 
 
 
