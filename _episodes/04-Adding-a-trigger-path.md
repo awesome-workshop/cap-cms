@@ -44,6 +44,8 @@ Search: FIXME, hints on how to search
 ~~~
 {: .language-yaml}
 
+
+## Searching an entry by dataset and trigger
 Try now to narrow down your search by looking for entries having the primary dataset AND the trigger path you have included
 
 ~~~
