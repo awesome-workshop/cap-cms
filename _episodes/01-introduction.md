@@ -3,13 +3,13 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is the CAP?"
 objectives:
-- "Understand what is the CERN Analysis Preservation portal."
+- "Understand what is the CERN Analysis Preservation portal (CAP)."
 keypoints:
 - ""
 ---
-FIXME
+Get to know the general structure of the CAP portal
 
 {% include links.md %}
 
