@@ -11,6 +11,7 @@ hidden: false
 keypoints:
   - Triggers can be easily included in your CAP entry thanks to the dataset name suggestion system
   - The trigger paths are checked against a list containing the whole set of triggers by year of data taking
+  - CAP entries can be searched (among many other options) by trigger and dataset path
 
 ---
 
