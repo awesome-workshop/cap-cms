@@ -7,7 +7,7 @@ objectives:
   - Create a new CAP entry for our own personal project
   
 questions:
-  - ?
+  - Who can preserve the analysis code in CAP?
 hidden: false
 keypoints:
   - A new CAP entry can be easily created to help us preserve our analysis assets 
