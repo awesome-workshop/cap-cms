@@ -15,7 +15,7 @@ keypoints:
 ---
 
 
-# Entering in the CAP portal
+## Entering in the CAP portal
 
 The CAP portal can be accessed [here](https://analysispreservation.cern.ch/) with your CERN account.
 
