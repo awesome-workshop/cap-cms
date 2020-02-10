@@ -8,12 +8,13 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 > ## Prerequisites
 >
-> This assumes that you'll have some basic background with your command line, for example:
+> Most of the prerequisites should have been covered if you did the
+> pre-workshop material.
 >
-> 1. How to execute custom shell scripts
-> 2. How to run python scripts
->
-> as well as having gone through all previous sessions in this workshop.
+> At a bare minimum:
+> - You should have git working on your laptop
+> - You should have docker working
+> - We assume that you already have a CERN account
 {: .prereq}
 
 Introduction
