@@ -1,17 +1,25 @@
 ---
 layout: lesson
+title: Introduction
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-FIXME: home page introduction
-
-<!-- this is an html comment -->
-
-{% comment %} This is a comment in Liquid {% endcomment %}
+{% include gh_variables.html %}
 
 > ## Prerequisites
 >
-> FIXME
+> This assumes that you'll have some basic background with your command line, for example:
+>
+> 1. How to execute custom shell scripts
+> 2. How to run python scripts
+>
+> as well as having gone through all previous sessions in this workshop.
 {: .prereq}
+
+Introduction
+------------
+
+The CERN Analysis Preservation portal
+{: .checklist}
 
 {% include links.md %}
