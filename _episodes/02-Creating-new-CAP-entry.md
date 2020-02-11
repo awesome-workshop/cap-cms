@@ -3,7 +3,7 @@ title: "Create a new CAP entry"
 teaching: 10
 exercises: 10
 objectives:
-  - Understand the overall structure of the CAP presented during the introduction
+  - Understand the overall structure of the CAP 
   - Create a new CAP entry for our own personal project
   
 questions:
@@ -11,6 +11,7 @@ questions:
 hidden: false
 keypoints:
   - A new CAP entry can be easily created to help us preserve our analysis assets 
+  - CAP entries associated to CADI analyses are automatically filled with the CADI information
 
 ---
 
@@ -24,6 +25,16 @@ When entering in the portal, you will have available all the information on your
 You will also see a place holder to include your `WORKFLOWS`. Once you have your code preserved and some associated workflow, you will be able to launch it directly from CAP.
 
 ## Start preserving
+
+Analysis from CADI are automatically filled with the CADI metadata. Take a look at some of the CADI filled analyses, for instance, search for:
+
+~~~
+example of CADI only analysis that they can take a look at: FIXME
+~~~
+{: .language-yaml}
+
+
+Let's now preserve your own analysis! 
 
 When inside of the CAP portal you can go directly to `CREATE`. A prompt will appear asking you about the title for the analysis to be preserved and the type of content you want to preserve. On the latter you should select CMS Analysis. 
 
