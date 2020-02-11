@@ -10,7 +10,7 @@ keypoints:
 - "Get to know the general structure of the CAP portal"
 ---
 
-![prueba](https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/cap.png?raw=true)
+<img src="https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/logo.png?raw=true">
 
 The CERN analysis preservation effort pursuits the goal to describe and structure the knowledge behing the physics analyses aiming for its future reuse.
 
