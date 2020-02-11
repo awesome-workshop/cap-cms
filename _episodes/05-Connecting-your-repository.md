@@ -49,8 +49,12 @@ For this, provide #FIXME
 {: .language-yaml}
 
 
-
-
+ After connecting the external repository, edit your code to see that after you pushed your changes, a new snapshot is created in CAP.
+ 
+ ~~~
+For this, provide #FIXME
+~~~
+{: .language-yaml}
 
 
 
