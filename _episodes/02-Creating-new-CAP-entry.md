@@ -15,10 +15,6 @@ keypoints:
 ---
 
 
-## Entering in the CAP portal
-
-The CAP portal can be accessed [here](https://analysispreservation.cern.ch/) with your CERN account.
-
 ## Overall view
 
 After the introduction showing the general aspects of the CAP portal, it's now time to create a new CAP entry so that we can really see how the whole workflow works.
