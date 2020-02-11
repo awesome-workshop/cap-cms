@@ -34,6 +34,11 @@ The CAP portal effort is run by CERN Scientific Information Services with the he
 
 Let's start!
 
+
+## Entering in the CAP portal
+
+The CAP portal can be accessed [here](https://analysispreservation.cern.ch/) with your CERN account.
+
 {% include links.md %}
 
 
