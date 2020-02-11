@@ -12,15 +12,17 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 > pre-workshop material.
 >
 > At a bare minimum:
-> - You should have git working on your laptop
-> - You should have docker working
-> - We assume that you already have a CERN account
+> - You should have a git account #FIXME (gitlab or github?)
+> - You should have internet connection ;-)
 {: .prereq}
 
 Introduction
 ------------
+<img src="https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/cap.png?raw=true">
 
-The CERN Analysis Preservation portal
+The CERN Analysis Preservation portal is a common place to preserve all the information around the physics analyses. This lesson will guide you through the portal, and show you how to start preserving your CMS analysis, add some input datasets and triggers, and connect it with some external repository containing your code.
+
+
 {: .checklist}
 
 {% include links.md %}
