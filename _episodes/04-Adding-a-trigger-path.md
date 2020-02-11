@@ -14,7 +14,11 @@ keypoints:
   - CAP entries can be searched (among many other options) by trigger and dataset path
 
 ---
+## What is a trigger?
 
+When CMS is performing at its peak, about one billion proton-proton interactions will take place every second inside the detector. There is no way that data from all these events could be read out, and even if they could, most would be less likely to reveal new phenomena; they might be low-energy glancing collisions for instance, rather than energetic, head-on interactions.
+
+We therefore need a 'trigger' that can select the potentially interesting events, such as those which will produce the Higgs particle, and reduce the rate to just a few hundred “events” per second, which can be read out and stored on computer disk for subsequent analysis.
 
 ## Including a trigger path to the CAP entry
 
@@ -29,8 +33,6 @@ Now that we have created our first CAP entry and included some input datasets, l
 Add the following trigger path: FIXME
 ~~~
 {: .language-yaml}
-
-
 
 
 
