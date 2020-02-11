@@ -25,11 +25,17 @@ Let's try it out using your CERN Gitlab account! (FIXME: or you prefer to use Gi
 
 For this you have to follow these steps:
 
-1. Go to the menu on your left and click on the connection symbol ![prueba](https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/signconnect.png?raw=true)
+1. Go to the menu on your left and click on the connection symbol
+
+![prueba](https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/signconnect.png?raw=true)
+
 2. Right now you should see no external repository connected to your CAP entry
 3. Click on the button ``Connect your repo``
+
 ![prueba](https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/connected_repo.png?raw=true)
+
 4. A prompt will appear where you will be able to select which external repo you want to link your CAP entry to and if you want to download the current snapshot of the repo or connect it. If you choose the second option, each time something will change in the external repo the information will be propagated to CAP automatically.
+
 ![prueba](https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/includerepo.png?raw=true)
 
 Now try it yourself!
