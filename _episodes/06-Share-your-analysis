@@ -20,7 +20,7 @@ keypoints:
 
 We are now going to share the CAP entry we have created. For this, you can click on the Sharing icon on the left menu.
 
-![prueba](https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/signshare.png?raw=true)
+![prueba](https://github.com/awesome-workshop/cap-cms/blob/gh-pages/fig/iconshare.png?raw=true)
 
 
 When you click you will be asked about how to share the information. If you decide to publish it, it will create a versioned snapshot of the record and make it available to the CMS members within CAP portal. You can also decide which permissions to assign, by email or by CERN e-group.
