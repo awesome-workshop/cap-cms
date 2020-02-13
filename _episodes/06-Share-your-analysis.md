@@ -1,13 +1,12 @@
 ---
-title: "Adding a dataset to the CAP entry"
+title: "Sharing your preserved analysis"
 teaching: 10
 exercises: 10
 objectives:
-  - See how to include some dataset to the CAP entry 
-  - Export the dataset information as a latex table
+  - See how to share your analysis with other collaborators
   
 questions:
-  - How share the preserved information?
+  - How to share the preserved information?
   - What is the difference between draft and preserved analyses?
 hidden: false
 keypoints:
