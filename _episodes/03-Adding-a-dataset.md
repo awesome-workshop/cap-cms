@@ -1,56 +1,61 @@
 ---
 title: "Adding a dataset to the CAP entry"
-teaching: 10
+teaching: 0
 exercises: 10
 objectives:
-  - See how to include some dataset to the CAP entry 
+  - See how to include datasets to the CAP entry
+  - Learn how to search for your datasets using integration with DAS database
   - Export the dataset information as a latex table
-  
+
 questions:
   - How to preserve the dataset information?
 hidden: false
 keypoints:
-  - Datasets can be easily included in your CAP entry thanks to the dataset name suggestion system
-  - The dataset names are checked against the Data Aggregation System (DAS)
+  - Datasets can be easily found and included in your CAP entry thanks to the dataset name suggestion system
+  - The dataset names are checked/ against the Data Aggregation System (DAS)
 
 ---
 
 
 ## Including a dataset to the CAP entry
 
-Now that we have created our first CAP entry in the previous lesson, let's add some useful information to it. One of the first things someone accessing your preserved analysis will want to know, is which dataset you used when perfoming your analysis.
-For this, we are going to learn how to append this information!
+One of the first things someone accessing your preserved analysis will want to know, is which dataset you used when perfoming your analysis. Let's check, how we can provide this information!
 
-So we will now need to perfom some actions:
+First, from the navigation menu on the left side, pick `Input Data` section. You can see that there are three different types of datasets that you can provide. All of those are integrated with Data Aggregation System (DAS) in order to provide a quick search and validation functionality. Let's try to add some.
 
-1. In the menu on your left, click on Input Data
-2. Click on Primary Datasets to include some real data dataset. Start typing the name of the dataset to see how it autocompletes to avoid typos.
+1. Pick `Primary Datasets` for real data dataset.
+    * Add a new element
+    * Start typing in `path` field to check autosuggestions
 ~~~
-Add the following dataset: FIXME
+/SingleMu/Run2012A
 ~~~
-{: .language-yaml}
-
-3. Click on Monte Carlo Signal Datasets to include some dataset simulation on the signal model your are using in your analysis. Start typing the name of the dataset to see how it autocompletes to avoid typos.
+    * Try quick search in `path` field
 ~~~
-Add the following dataset: FIXME
+/Commissioning/Run2010*/*
 ~~~
-{: .language-yaml}
-
-4. Click on Monte Carlo Background Datasts to include some dataset simulation on the background you are using in your analysis. Start typing the name of the dataset to see how it autocompletes to avoid typos.
+    * Pick
 ~~~
-Add the following dataset: FIXME
+    /Commissioning/Run2010B-Apr21ReReco-v1/AOD
 ~~~
-{: .language-yaml}
+    * Now add a trigger for your dataset (`Triggers +`). Triggers will be validated against your dataset path and year.
+    Start typing in `trigger` field to check autosuggestions
+~~~
+HLT
+~~~
+
+2. Pick `Monte Carlo Signal Datasets` to include some dataset simulation on the signal model your are using in your analysis. Start typing to check quick search/autocompletion features.
+
+3. Pick `Monte Carlo Background Datasts` to include some dataset simulation on the background you are using in your analysis. Start typing to check quick search/autocompletion features.
 
 
+## Importing datasets from a clipboard
 
+In case you already have a full list of used datasets, you can simply copy-paste them in the form. Just click on `import from clipobard`, that can be found on header of each datasets section.
 
-
+attach pic FIXME
 
 ## Exporting the datasets as a Latex file
 
-Now that you have your dataset paths stored, you may need to export them to include them in a paper or just to share it with some collaborators. For doing so, the CAP system has a Latex exporter that will generate an exportable LaTeX dataset table with headers, etc…
+Now that you have your dataset paths stored, you may need to export them to include them in a paper or just to share it with some collaborators. For doing so, the CAP system has a Latex exporter that will generate an exportable LaTeX dataset table. Simply click on `export to Latex` that can be found on header of each datasets section.
 
-Try it out yourself!
-
-FIXME: Instruction on how to export the dataset files as a latex table
+attach pic FIXME
