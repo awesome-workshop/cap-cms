@@ -12,7 +12,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 > pre-workshop material.
 >
 > At a bare minimum:
-> - You should have a git account #FIXME (gitlab or github?)
+> - You should have a GitLab account
 > - You should have internet connection ;-)
 {: .prereq}
 
