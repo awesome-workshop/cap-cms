@@ -18,7 +18,7 @@ keypoints:
 
 ## Share your work
 
-CAP has two basic type of entries - `drafts` and `published` ones. What's the difference?
+CAP has two basic type of entries - `drafts` and `published`. What's the difference?
 
 Once you start your analysis in CAP, you first create a `draft`. You're its owner and the only person that can access it (unless you decide otherwise).
 Drafts are meant to be used to preserve a work-in-progress analysis, that are not ready to be shared with others yet. Although, if you're collaborating with
