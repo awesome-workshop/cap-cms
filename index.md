@@ -18,7 +18,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 Introduction
 ------------
-![](../fig/banner.png)
+![](fig/banner.png)
 
 The CERN Analysis Preservation portal is a common place to preserve all the information around the physics analyses. This lesson will guide you through the portal, and show you how to start preserving your CMS analysis, add some input datasets and triggers, and connect it with some external repository containing your code.
 
