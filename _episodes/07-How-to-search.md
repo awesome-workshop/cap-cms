@@ -21,8 +21,7 @@ So we ask users to provide us with all this information, but how can we find it 
 
 At the top of the page you can see a searchbar. As you start typing, you'll see two options in the dropdown:
 
-1. `search in drafts`
-2. `search in published`
+![](../fig/searchbar.png)
 
 You already know the difference between those two, so just so you know, the default search (when you don't click any option) is a `search in published`.
 
@@ -35,9 +34,10 @@ Now let's try to search some published analysis:
 
 1. Type in a searchbar and pick `search in published`
 ~~~
-    dataset:/DubleMu*/*
+    dataset:/DoubleMu*/*
 ~~~
 2. Use filters on the left side to filter by your working group (try few of them and see how results are changing)
+
 3. Now try to search for an analysis with a specific CADI ID. Type in a searchbar
 ~~~
     BTV-13-001

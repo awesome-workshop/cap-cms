@@ -23,8 +23,10 @@ One of the first things someone accessing your preserved analysis will want to k
 
 First, from the navigation menu on the left side, pick `Input Data` section. You can see that there are three different types of datasets that you can provide. All of those are integrated with Data Aggregation System (DAS) in order to provide a quick search and validation functionality. Let's try to add some.
 
+![](../fig/datasets.png)
+
 1. Pick `Primary Datasets` for real data dataset.
-    * Add a new element
+    * `Add Item`
     * Start typing in `path` field to check autosuggestions
 ~~~
 /SingleMu/Run2012A
@@ -52,10 +54,6 @@ HLT
 
 In case you already have a full list of used datasets, you can simply copy-paste them in the form. Just click on `import from clipobard`, that can be found on header of each datasets section.
 
-attach pic FIXME
-
 ## Exporting the datasets as a Latex file
 
 Now that you have your dataset paths stored, you may need to export them to include them in a paper or just to share it with some collaborators. For doing so, the CAP system has a Latex exporter that will generate an exportable LaTeX dataset table. Simply click on `export to Latex` that can be found on header of each datasets section.
-
-attach pic FIXME
