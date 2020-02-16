@@ -36,7 +36,7 @@ During this course we're working on the dev instance, so we can publish our test
 
 Let's try to give a read access to your CAP analysis to one of your colleagues
 
-1. Go to the menu on your left and click on the share symbol
+1. Go to the menu on your left and click on the share symbol (last icon)
 2. Type your colleague mail and click `+` button
 3. Now he has a read access to your analysis!
 4. Revoke access by pressing on `read` access switch
