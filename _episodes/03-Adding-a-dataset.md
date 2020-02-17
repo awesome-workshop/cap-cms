@@ -45,6 +45,8 @@ First, from the navigation menu on the left side, pick `Input Data` section. You
 HLT
 ~~~
 
+![](../fig/addtriggers.png)
+
 2. Pick `Monte Carlo Signal Datasets` to include some dataset simulation on the signal model your are using in your analysis. Start typing to check quick search/autocompletion features.
 
 3. Pick `Monte Carlo Background Datasts` to include some dataset simulation on the background you are using in your analysis. Start typing to check quick search/autocompletion features.
@@ -54,6 +56,10 @@ HLT
 
 In case you already have a full list of used datasets, you can simply copy-paste them in the form. Just click on `import from clipobard`, that can be found on header of each datasets section.
 
+![](../fig/importdatasets.png)
+
 ## Exporting the datasets as a Latex file
 
 Now that you have your dataset paths stored, you may need to export them to include them in a paper or just to share it with some collaborators. For doing so, the CAP system has a Latex exporter that will generate an exportable LaTeX dataset table. Simply click on `export to Latex` that can be found on header of each datasets section.
+
+FIXME add pic

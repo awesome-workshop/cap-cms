@@ -15,7 +15,7 @@ keypoints:
 ---
 
 
-## Connecting CAP with git repositories
+## Connecting CAP with Git repositories
 
 We have already created a new CAP entry, added some metadata (datasets, triggers information) and uploaded files. Now it's time to tell us, where is the code that you used in your analysis.
 
@@ -35,17 +35,17 @@ In general, if you want to connect a public repository, you don't need to connec
 Now let's go back to your open analysis in the previous tab:
 1. Go to the menu on your left and click on the connection symbol (third icon)
 2. Right now you should see no repositories connected with your analysis
-3. Add our analysispreservation repository link
+3. To change it let's use our repository created specially for you for this workshop!
 ~~~
-https://github.com/cernanalysispreservation/analysispreservation.cern.ch
+https://gitlab.cern.ch/awesome-workshop/payload-cap-cms
 ~~~
 ![](../fig/repositories.png)
-4. You can see 3 options
-    * upload a snapshot (it's like downloading a file - it will make a snapshot of a repo at this moment and no future changes will be reflected in your analysis)
-    * connect repository (make connection between your repository and this analysis - get notified every time somebody pushed changes to this repo)
-    * upload snapshot & connect (combines both, download now and everytime something was pushed to this repository)
-Let's test option 3
+4. We have two options:
+    * download - like downloading a file - it will make a snapshot of a repo at this moment and attach it to your analysis files (you will find it with other files in your `File Manager`)
+    * connect - create a link between your repository and analysis. This way you can keep your analysis up to date with your code changes - we will make a snapshot of each new version of your code and attach it to your analysis for you.
 
-FIXME
+    First option is useful for repositories, that you use, but not maintain, or when your analysis code is already in its final state. For analysis that are still in progress we recommend a second option.
+
+FIXME download repo and download file, pics
 
 {: .language-yaml}

@@ -26,7 +26,11 @@ The first page you can see is your dashboard. It gives you a quick overlook on t
 
 Switch from `MINE` to `ALL` tab in `PUBLISHED IN COLLABORATION` view. You can click on analysis to find out more details.
 
+![](../fig/publishedview.png)
+
 Another section of the dashboard is a `QUICK SEARCH`. It's a word map with some of the most common search phrases, that will take you to your search results with just one click. For example, if you click on `EXO` you will see the list with all the CAP entries in the EXOTICA group, that have been already preserved. Try!
+
+![](../fig/quicksearch.png)
 
 ## Start preserving
 

@@ -34,15 +34,25 @@ repositories, or even delete it, and start from scratch. But once your analysis 
 
 During this course we're working on the dev instance, so we can publish our test analysis, but think twice before doing this in production server;)
 
-Let's try to give a read access to your CAP analysis to one of your colleagues
+Let's try to give a read access to your CAP analysis to all the cms-members
 
 1. Go to the menu on your left and click on the share symbol (last icon)
-2. Type your colleague mail and click `+` button
-3. Now he has a read access to your analysis!
-4. Revoke access by pressing on `read` access switch
+2. You can see yourself marked as on owner of this analysis, with all the access (makes sense)
+2. Pick `Egroup email` and type cms egroup mail
+~~~
+cms-members@cern.ch
+~~~
+3. Click `+` button
+3. Now all the cms-members have read access to your analysis! (You can check in your dashboard if you can see some new drafts from your colleagues)
+4. Revoke access by pressing on `read` switch next to the egroup name
+
+![](../fig/access2.png)
 
 Let's publish your analysis
 1. From the same `share with others` tab click `Publish` button
+
+![](../fig/publish.png)
+
 2. Confirm and congrats, your work has been published!
 4. Go to the home page and see if you can find it in `published in collaboration` list
 4. See if you can see your colleagues published work too

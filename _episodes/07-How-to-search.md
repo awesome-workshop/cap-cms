@@ -38,6 +38,8 @@ Now let's try to search some published analysis:
 ~~~
 2. Use filters on the left side to filter by your working group (try few of them and see how results are changing)
 
+![](../fig/searchpage.png)
+
 3. Now try to search for an analysis with a specific CADI ID. Type in a searchbar
 ~~~
     BTV-13-001
