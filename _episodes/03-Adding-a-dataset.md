@@ -62,4 +62,4 @@ In case you already have a full list of used datasets, you can simply copy-paste
 
 Now that you have your dataset paths stored, you may need to export them to include them in a paper or just to share it with some collaborators. For doing so, the CAP system has a Latex exporter that will generate an exportable LaTeX dataset table. Simply click on `export to Latex` that can be found on header of each datasets section.
 
-FIXME add pic
+
