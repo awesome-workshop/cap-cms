@@ -12,7 +12,8 @@ hidden: false
 keypoints:
   - CAP has two types of entries: drafts and published
   - Draft can be shared by author with other people
-  - Published is a versioned snapshot of your work, that becomes visible to all the members of collaboration - it cannot be deleted!
+  - Published is a versioned snapshot of your work, that becomes visible to all the members of collaboration
+  - Once published analysis cannot be deleted - but allows changes and republish with a new version number
 ---
 
 
@@ -39,20 +40,20 @@ Let's try to give a read access to your CAP analysis to all the cms-members
 1. Go to the menu on your left and click on the share symbol (last icon)
 2. You can see yourself marked as on owner of this analysis, with all the access (makes sense)
 2. Pick `Egroup email` and type cms egroup mail
-~~~
-cms-members@cern.ch
-~~~
+
+![](../fig/access.png)
+
 3. Click `+` button
 3. Now all the cms-members have read access to your analysis! (You can check in your dashboard if you can see some new drafts from your colleagues)
 4. Revoke access by pressing on `read` switch next to the egroup name
 
-![](../fig/access2.png)
-
-Let's publish your analysis
+Now let's check how to publish your analysis
 1. From the same `share with others` tab click `Publish` button
 
-![](../fig/publish.png)
+![](../fig/published.png)
 
-2. Confirm and congrats, your work has been published!
-4. Go to the home page and see if you can find it in `published in collaboration` list
-4. See if you can see your colleagues published work too
+2. Confirm and congrats - your work has been published in CAP!
+3. Go to the home page and check what has changed in your dashboard
+    * did numbers on your analysis chart changed?
+    * can you find your analysis in `published in collaboration` list?
+    * can you see analysis of your colleagues?

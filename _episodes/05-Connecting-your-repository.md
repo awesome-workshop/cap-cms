@@ -28,24 +28,42 @@ In general, if you want to connect a public repository, you don't need to connec
 
 1. Open CAP in a new tab
 2. Click on your account icon and go to `Settings`
+
 ![](../fig/connect.png)
+
 3. Choose `+ CONNECT` next to `GITLAB CERN` and connect your account
+
 ![](../fig/connections.png)
 
 Now let's go back to your open analysis in the previous tab:
 1. Go to the menu on your left and click on the connection symbol (third icon)
 2. Right now you should see no repositories connected with your analysis
-3. To change it let's use our repository created specially for you for this workshop!
+3. To change it you can use repository created specially for this workshop or one of your own Gitlab repositories
 ~~~
 https://gitlab.cern.ch/awesome-workshop/payload-cap-cms
 ~~~
-![](../fig/repositories.png)
 4. We have two options:
-    * download - like downloading a file - it will make a snapshot of a repo at this moment and attach it to your analysis files (you will find it with other files in your `File Manager`)
-    * connect - create a link between your repository and analysis. This way you can keep your analysis up to date with your code changes - we will make a snapshot of each new version of your code and attach it to your analysis for you.
 
-    First option is useful for repositories, that you use, but not maintain, or when your analysis code is already in its final state. For analysis that are still in progress we recommend a second option.
+![](../fig/addrepo.png)
 
-FIXME download repo and download file, pics
+    * download - like downloading a file - it will make a snapshot of a repo at this moment and attach it to your analysis files (you will find it with other files in your `File Manager`). Use this option for repositories that you use, but not maintain or when your analysis code is already in its final state.
+    * connect - create a link between your repository and analysis. This way you can keep your analysis up to date with your code changes - we will make a snapshot of each new version of your code and attach it to your analysis for you. It's recommended for analysis that are still in progress.
 
-{: .language-yaml}
+5. Let's pick `CONNECT`.
+6. Connecting a repository is an asynchronous task, hence it requires you to refresh your page (we're sorry, this is still BETA, we'll make it much better soon!)
+7. Check if you can see connected repo in your `Connected Repositories` list
+
+![](../fig/connectedrepositories.png)
+
+8. Go to your `File Manager` and download the snapshot
+
+![](../fig/repomanager.png)
+
+9. Now you can try to push some changes in the repo (or if you picked our workshop repository wait for teacher to make a new commit)
+10. Refresh your page
+11. In `Connected Repositories` find your repo and click on an arrow on the right side
+
+![](../fig/snapshots.png)
+
+12. You can find a new snapshot there
+13. Go to `File Manager` and download your updated repository. Can you see new changes?

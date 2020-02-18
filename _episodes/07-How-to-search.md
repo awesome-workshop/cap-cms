@@ -48,4 +48,6 @@ Now let's try to search some published analysis:
 ~~~
     BTV-13-*
 ~~~
-4. Try your own queries! Click on the `?` next to the searchbar to learn more about search language
+4. Try your own queries! Click on the `?` next to the searchbar to find out more about search queries
+
+![](../fig/searchtips.png)
