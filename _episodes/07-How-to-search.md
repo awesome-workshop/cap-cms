@@ -10,7 +10,7 @@ questions:
   - How can I find analysis with this CADI ID
 hidden: false
 keypoints:
-  - CAP entries can be searched (among many other options) by triggers, datasets, working groups, CADI IDs
+  - CAP entries can be searched (among many other options) by triggers, datasets, working groups, CADI ID, etc.
 
 ---
 
