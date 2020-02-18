@@ -30,7 +30,7 @@ Let's see how it works. First let's upload some file from our local disk.
 
 ![](../fig/fileupload.png)
 
-You can upload more files or just a close popup for now. Check if you can see your file saved in your analysis.
+You can upload more files or just close the popup for now. Check if you can see your file saved in your analysis.
 
 ![](../fig/filemanager2.png)
 
