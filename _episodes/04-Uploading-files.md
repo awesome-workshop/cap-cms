@@ -2,10 +2,13 @@
 title: "Uploading your files"
 teaching: 5
 exercises: 5
-questions:
-- "How can I upload files to my analysis?"
 objectives:
 - Learn how to upload file from your disk
+questions:
+ - "How can I upload files to my analysis?"
+hidden: false
+keypoints:
+  - Your files can be easily uploaded and preserved together with the other analysis assets 
 ---
 
 ## Uploading files
