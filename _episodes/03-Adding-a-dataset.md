@@ -12,7 +12,7 @@ questions:
 hidden: false
 keypoints:
   - Datasets can be easily found and included in your CAP entry thanks to the dataset name suggestion system
-  - The dataset names are checked/ against the Data Aggregation System (DAS)
+  - The dataset names are checked against the Data Aggregation System (DAS)
 
 ---
 
