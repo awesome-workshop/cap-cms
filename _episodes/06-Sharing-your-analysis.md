@@ -10,7 +10,7 @@ questions:
   - How can I give access to my work to others
 hidden: false
 keypoints:
-  - CAP has two types of entries: drafts and published
+  - CAP has two types of entries - drafts and published
   - Draft can be shared by author with other people
   - Published is a versioned snapshot of your work, that becomes visible to all the members of collaboration
   - Once published analysis cannot be deleted - but allows changes and republish with a new version number
