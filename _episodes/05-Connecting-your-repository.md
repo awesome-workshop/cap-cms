@@ -29,11 +29,11 @@ In general, if you want to connect a public repository, you don't need to connec
 1. Open CAP in a new tab
 2. Click on your account icon and go to `Settings`
 
-![](../fig/connect.png)
+    ![](../fig/connect.png)
 
 3. Choose `+ CONNECT` next to `GITLAB CERN` and connect your account
 
-![](../fig/connections.png)
+    ![](../fig/connections.png)
 
 Now let's go back to your open analysis in the previous tab:
 1. Go to the menu on your left and click on the connection symbol (third icon)
@@ -44,7 +44,7 @@ https://gitlab.cern.ch/awesome-workshop/payload-cap-cms
 ~~~
 4. We have two options:
 
-![](../fig/addrepo.png)
+    ![](../fig/addrepo.png)
 
     * download - like downloading a file - it will make a snapshot of a repo at this moment and attach it to your analysis files (you will find it with other files in your `File Manager`). Use this option for repositories that you use, but not maintain or when your analysis code is already in its final state.
     * connect - create a link between your repository and analysis. This way you can keep your analysis up to date with your code changes - we will make a snapshot of each new version of your code and attach it to your analysis for you. It's recommended for analysis that are still in progress.
@@ -53,17 +53,16 @@ https://gitlab.cern.ch/awesome-workshop/payload-cap-cms
 6. Connecting a repository is an asynchronous task, hence it requires you to refresh your page (we're sorry, this is still BETA, we'll make it much better soon!)
 7. Check if you can see connected repo in your `Connected Repositories` list
 
-![](../fig/connectedrepositories.png)
+    ![](../fig/connectedrepositories.png)
 
 8. Go to your `File Manager` and download the snapshot
 
-![](../fig/repomanager.png)
+    ![](../fig/repomanager.png)
 
 9. Now you can try to push some changes in the repo (or if you picked our workshop repository wait for teacher to make a new commit)
 10. Refresh your page
-11. In `Connected Repositories` find your repo and click on an arrow on the right side
+11. In `Connected Repositories` find your repo and click on an arrow on the right side - you can see a new snapshot there
 
-![](../fig/snapshots.png)
+    ![](../fig/snapshots.png)
 
-12. You can find a new snapshot there
 13. Go to `File Manager` and download your updated repository. Can you see new changes?
