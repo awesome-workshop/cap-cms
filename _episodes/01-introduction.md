@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Understand what is the CERN Analysis Preservation portal (CAP)."
 keypoints:
-- "Get to know the general structure of the CAP portal"
+- "The CAP portal goal is to help researchers preserve their analyses."
 ---
 
 ![](../fig/banner.png)
