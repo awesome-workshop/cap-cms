@@ -1,6 +1,6 @@
 ---
 title: "How to search"
-teaching: 0
+teaching: 5
 exercises: 10
 objectives:
   - Learn how to search in CAP

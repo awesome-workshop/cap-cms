@@ -1,6 +1,6 @@
 ---
 title: "Create a new CAP entry"
-teaching: 10
+teaching: 5
 exercises: 5
 objectives:
   - Understand the overall structure of the CAP
