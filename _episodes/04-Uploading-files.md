@@ -24,7 +24,7 @@ Let's see how it works. First let's upload some file from our local disk.
 1. Click `+` button in your file manager
 2. Drag and drop (or click browse and pick) file from your disk
 3. Give your file a new name, like `my-shiny-new-file`, and place it in a new directory `notes`
-4. Let's give it a `type-note` tag
+4. Let's give it a `type=note` tag
 5. Click upload
 3. Done!
 
