@@ -20,7 +20,7 @@ keypoints:
 
 After the introduction showing the general aspects of the CAP portal, it’s now time to check on your own how it all works!
 
-First, follow the [link](https://analysispreservation.cern.ch/) and log in portal with your CERN account.
+First, follow the [link](https://analysispreservation-dev.cern.ch/) and log in portal with your CERN account.
 
 The first page you can see is your dashboard. It gives you a quick overlook on the latest work from you and other members of collaboration. Right now, there's not much going on (as you haven't started preserving your work yet), but we will change it very soon! For now, you can check analysis preserved by other members of your collaboration.
 
